@@ -1,0 +1,27 @@
+{
+  "name": "aichatbot",
+  "version": "1.0.0",
+  "description": "Chatbot powered by ChatGPT",
+  "type": "module",
+  "main": "\u001b[D\u001b[D\u001b[D\u001b[Dnode.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbrycebarker/aichatbot.git"
+  },
+  "author": "Sergio Barker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbrycebarker/aichatbot/issues"
+  },
+  "homepage": "https://github.com/sbrycebarker/aichatbot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.1",
+    "openai": "^4.26.1",
+    "readline-sync": "^1.4.10"
+  }
+}
